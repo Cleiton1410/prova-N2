@@ -1,4 +1,4 @@
-# Use a imagem oficial do Node.js
+# Use a imagem oficial do Node.jS
 FROM node:18-alpine
 
 # Define o diretório de trabalho
