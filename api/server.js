@@ -98,7 +98,7 @@ const usuarios = [
 
 // Rotas da API
 app.get("/api/usuarios", (req, res) => {
-  console.log("GET /api/usuarios - Listando todos os usuários")
+  console.log("GET /api/usuarios - Listando todos os Usuários")
 
   // Retorna apenas os dados básicos para a listagem
   const usuariosBasicos = usuarios.map((usuario) => ({
