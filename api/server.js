@@ -12,7 +12,7 @@ app.use(express.json())
 const usuarios = [
   {
     id: 1,
-    nome: "João Silva",
+    nome: "João SilvA",
     email: "joao.silva@email.com",
     telefone: "(11) 99999-1111",
     cidade: "São Paulo",
